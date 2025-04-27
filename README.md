@@ -1,7 +1,12 @@
 # AD3_UML_RubenSerrano
-Casos de uso y diagrama de clases 
 
-1. Análisis del problema y requisitos del sistema
+##Autor
+Ruben Serrano Nohales
+Guarin99
+
+ 
+
+##1. Análisis del problema y requisitos del sistema
 
 • ¿Quiénes son los actores que interactúan con el sistema?
 
@@ -36,7 +41,7 @@ un jugador exista sin equipo asignado.
 
 
 
-2. Identificación de los casos de uso y elaboración del diagrama
+##2. Identificación de los casos de uso y elaboración del diagrama
 
 Actor:
 Administrador
@@ -49,7 +54,7 @@ Añadir jugadores a un equipo-<include>->Comprobar Existencia De Equipo.
 Consultar lista de equipos y jugadores-<include>->Consultar la Lista de Equipos.
                                       -<include>->Mostrar el Numero de Jugadores por Equipo.
 
-3. Identificación de clases y relaciones
+##3. Identificación de clases y relaciones
 
 Clases:
 Equipo
@@ -67,7 +72,7 @@ SistemaGestor---Asociacion--->Equipo
 
 
 
-Explicacion del proyecto
+##Explicacion del diseño
 
 Mi interpretacion de este supuesto identifica a un actor como administrador de nustro sistema con los tres casos de uso que nos dice el enunciado,
 Registrar equipo, Añadir jugador a un equipo y consultar la lista de equipos y jugadores.
